@@ -38,7 +38,7 @@ Quickly test that you can connect to the API with the following call:
 
 ## Example Usage
 
-Once you've set up your instance, using the Pinata SDK is easy. Simply call your desired function and handle the results of the promise.
+Once you've set up your instance, using the Trusti SDK is easy. Simply call your desired function and handle the results of the promise.
 
 - [createAsset](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/createAsset.js)
 - [getAssetByCredential](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetByCredential.js)

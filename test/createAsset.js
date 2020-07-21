@@ -14,7 +14,7 @@ form_data.append(
 form_data.append('fil', newFile);
 form_data.append('asset_name', 'Test from SDK');
 form_data.append('addt_meta', '{}');
-form_data.append('multiple_signature', 0);
+form_data.append('multiple-signature', 0);
 form_data.append('ipfs_upload', 0);
 form_data.append('email_recipient', 'fauzanapprover1@gmail.com');
 form_data.append('approver', 'signee');
