@@ -17,10 +17,10 @@ form_data.append('addt_meta', '{}');
 form_data.append('multiple_signature', 0);
 form_data.append('ipfs_upload', 0);
 form_data.append('email_recipient', 'fauzanapprover1@gmail.com');
-form_data.append('approver', 's');
-form_data.append('approverTambahan', 0);
-form_data.append('add_email_sign', '[]'); //array in json format
-form_data.append('add_approver', '[]'); //array in json format
+form_data.append('approver', 'signee');
+form_data.append('addApprover', 0);
+form_data.append('add_email_sign', '[{ "value": "fauzan@gmail.com" }]'); //array in json format
+form_data.append('add_approver', '[[{ "value": "signee" }]]'); //array in json format
 
 //await createAsset
 (async () => {
