@@ -1,4 +1,4 @@
-<img src="trusti.png" width="200" />
+<img src="https://github.com/fauzan121002/Trusti-SDK/blob/master/trusti.png" width="200" />
 
 # Trusti SDK
 
@@ -40,12 +40,12 @@ Quickly test that you can connect to the API with the following call:
 
 Once you've set up your instance, using the Pinata SDK is easy. Simply call your desired function and handle the results of the promise.
 
-- [createAsset](test/createAsset.js)
-- [getAssetByCredential](test/getAssetByCredential.js)
-- [getAssetList](test/getAssetList.js)
-- [getAssetStatus](test/getAssetStatus.js)
-- [getUserDetail](test/getUserDetail.js)
-- [resetPassword](test/resetPassword.js)
+- [createAsset](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/createAsset.js)
+- [getAssetByCredential](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetByCredential.js)
+- [getAssetList](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetList.js)
+- [getAssetStatus](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetStatus.js)
+- [getUserDetail](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getUserDetail.js)
+- [resetPassword](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/resetPassword.js)
 
 ## Questions? Issues? Suggestions?
 
