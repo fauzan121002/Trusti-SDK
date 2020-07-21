@@ -2,7 +2,7 @@
   "name": "trustisdk",
   "version": "1.1.2",
   "description": "Trusti Public API SDK",
-  "main": "lib/trusti-sdk.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "eslint src --quiet",
     "build:prod": "webpack --env prod",
