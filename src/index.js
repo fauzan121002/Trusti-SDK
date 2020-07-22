@@ -4,7 +4,6 @@ const getAssetByCredential = require('./commands/getAssetByCredential.js')
 const getAssetList = require('./commands/getAssetList.js').getAssetList;
 const getAssetStatus = require('./commands/getAssetStatus.js').getAssetStatus;
 const getUserDetail = require('./commands/getUserDetail.js').getUserDetail;
-const resetPassword = require('./commands/resetPassword.js').resetPassword;
 
 module.exports.trustiClient = (apiKey) => {
   const client = {};
@@ -28,8 +27,5 @@ module.exports.trustiClient = (apiKey) => {
     return getUserDetail(apiKey, options);
   };
 
-  client.resetPassword = (options) => {
-    return resetPassword(apiKey, options);
-  };
   return client;
 };

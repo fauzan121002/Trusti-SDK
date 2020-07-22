@@ -45,7 +45,6 @@ Once you've set up your instance, using the Trusti SDK is easy. Simply call your
 - [getAssetList](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetList.js)
 - [getAssetStatus](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getAssetStatus.js)
 - [getUserDetail](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/getUserDetail.js)
-- [resetPassword](https://github.com/fauzan121002/Trusti-SDK/blob/master/test/resetPassword.js)
 
 ## Questions? Issues? Suggestions?
 
