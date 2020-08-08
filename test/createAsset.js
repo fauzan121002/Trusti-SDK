@@ -13,7 +13,8 @@ form_data.append(
   "VEX7dBsTJd1cQfXFR3Ts1PnreqiccpNhYsjaTdfyVmwK1duV2rnJh"
 );
 
-form_data.append('fil', newFile);
+form_data.append('fil', newFile); 
+
 form_data.append('asset_name', 'Test from SDK');
 
 let addt_meta = {
