@@ -1,6 +1,6 @@
 {
   "name": "trustisdk",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Trusti Public API SDK",
   "main": "src/index.js",
   "scripts": {
@@ -10,10 +10,7 @@
     "build": "webpack --env prod && webpack --env dev"
   },
   "keywords": [
-    "Trusti",
-    "Public",
-    "API",
-    "SDK"
+    "Trusti Public API SDK"
   ],
   "browserslist": [
     "defaults"
